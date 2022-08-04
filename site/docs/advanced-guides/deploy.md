@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Deploying OpenDC
 This document explains how you can deploy a multi-tenant instance of OpenDC using Docker.
 
@@ -9,7 +13,7 @@ This document explains how you can deploy a multi-tenant instance of OpenDC usin
 
 ## Setting up Auth0
 
-OpenDC uses [Auth0](https://auth0.com) as Identity Provider so that OpenDC does not have to manage user data itself, 
+OpenDC uses [Auth0](https://auth0.com) as Identity Provider so that OpenDC does not have to manage user data itself,
 which greatly simplifies our frontend and backend implementation. We have chosen to use Auth0 as it is a well-known
 Identity Provider with good software support and a free tier for users to experiment with.
 

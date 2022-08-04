@@ -1,4 +1,10 @@
-## Research with OpenDC
+---
+title: Research
+hide_title: true
+sidebar_label: Research
+---
+
+# Research with OpenDC
 
 This document contains publications related to OpenDC or publications that have used OpenDC in their work.
 
